@@ -1,0 +1,15 @@
+ body {
+    font-family: UniversLTStd
+}
+        
+.bgGrey {
+    background-color: #f0f0f0;
+}
+
+.grandTitre {
+    font-size: 30px;
+}
+
+.secondTitre {
+    font-size: 15px;
+}
